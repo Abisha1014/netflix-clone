@@ -15,7 +15,7 @@ A Netflix UI clone built using HTML and CSS.
 - CSS
 
 ## 📸 Preview
-![Uploading Screenshot 2026-04-16 073511.png…]()
+
 
 
 ## 📌 Author
